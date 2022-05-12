@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0-rc.3",
+    "rollup-plugin-visualizer": "^5.6.0",
+    "unplugin-icons": "^0.14.3",
+    "unplugin-vue-components": "^0.19.5"
+  },
+  "dependencies": {
+    "ant-design-vue": "^3.2.3"
+  }
+}
